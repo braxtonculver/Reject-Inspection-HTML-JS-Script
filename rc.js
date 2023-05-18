@@ -20,7 +20,7 @@
   function click() {
     if (event.button==2||event.button==3) {
       oncontextmenu='return false';
-      alert("Property of Realm Studios // © 2018-2023");
+      alert("Property of Braxton // github.com/braxtonculver");
     }
   }
     document.onmousedown=click
