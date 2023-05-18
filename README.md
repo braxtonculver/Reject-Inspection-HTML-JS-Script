@@ -1,6 +1,6 @@
 # Reject-Inspection-HTML-Script
 
 
-Easy to add to your site. Just drop rc.js into directory, then call to it on your homepage as a script.
+Rejects inspection of your website by deactivating certain hotkeys.
 <br><br>
 - <i><script src="<b>path</b>/rc.js"></script></i>
